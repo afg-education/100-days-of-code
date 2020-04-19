@@ -14,6 +14,12 @@ Plan includes:
 4. finish freecodecamp and udemy courses.
 5. Log anything relevant to the challenge.
 
+### R1D0 UPDATE - April 19, Sunday 
+
+Today's Progress: Even though it is still day 0, I have completed the first Responsive Web Design Project - Build a Tribute Page on FreeCodeCamp.
+
+Link(s) to work: https://codepen.io/afgonullu/pen/WNQQYgM
+
 ### R1D1 
 
 ### R1D2
