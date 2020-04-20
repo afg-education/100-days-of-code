@@ -22,6 +22,8 @@ Link(s) to work: https://codepen.io/afgonullu/pen/WNQQYgM
 
 ### R1D1 - April 20, Monday
 
-Today's Progress: Worked on second responsive design project on FreeCodeCamp. Trying to do more than the requirements and achieve a more polished result. Therefore still not finished. Also continued reading "Clean Architecture"
+Today's Progress: Finished the second responsive design project on FreeCodeCamp. Trying to do more than the requirements and achieve a more polished result. Therefore still not finished. Also continued reading "Clean Architecture"
+
+Link to work: https://codepen.io/afgonullu/pen/pojEPXz
 
 ### R1D2
