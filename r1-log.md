@@ -20,6 +20,8 @@ Today's Progress: Even though it is still day 0, I have completed the first Resp
 
 Link(s) to work: https://codepen.io/afgonullu/pen/WNQQYgM
 
-### R1D1 
+### R1D1 - April 20, Monday
+
+Today's Progress: Worked on second responsive design project on FreeCodeCamp. Trying to do more than the requirements and achieve a more polished result. Therefore still not finished. Also continued reading "Clean Architecture"
 
 ### R1D2
