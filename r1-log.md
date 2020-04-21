@@ -26,4 +26,6 @@ Today's Progress: Finished the second responsive design project on FreeCodeCamp.
 
 Link to work: https://codepen.io/afgonullu/pen/pojEPXz
 
-### R1D2
+### R1D2 - April 21, Tuesday
+
+Today's Progress: Started third responsive design project on FreeCodeCamp. I am confident about writing near perfect semantic HTML. But CSS is something else. It takes so much time! Appealing design is not easy. Switched my reading to "Clean Code"
