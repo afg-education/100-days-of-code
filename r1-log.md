@@ -29,3 +29,9 @@ Link to work: https://codepen.io/afgonullu/pen/pojEPXz
 ### R1D2 - April 21, Tuesday
 
 Today's Progress: Started third responsive design project on FreeCodeCamp. I am confident about writing near perfect semantic HTML. But CSS is something else. It takes so much time! Appealing design is not easy. Switched my reading to "Clean Code"
+
+### R1D3 - April 22, Wednesday
+
+Today's Progress: Submitted third responsive design project on FreeCodeCamp. Page looks ugly. But I have decided to move on. Cohesive and complete design is definitely a whole another discipline. Maybe I will visit this ugly page again at a later date. Read some more "Clean Code".
+
+Link to Work: https://codepen.io/afgonullu/pen/WNQGVOR?editors=1100
