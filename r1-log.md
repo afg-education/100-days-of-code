@@ -35,3 +35,19 @@ Today's Progress: Started third responsive design project on FreeCodeCamp. I am 
 Today's Progress: Submitted third responsive design project on FreeCodeCamp. Page looks ugly. But I have decided to move on. Cohesive and complete design is definitely a whole another discipline. Maybe I will visit this ugly page again at a later date. Read some more "Clean Code".
 
 Link to Work: https://codepen.io/afgonullu/pen/WNQGVOR?editors=1100
+
+### R1D4 - April 23, Thursday
+
+Today's Progress: Finished 4th html/css project on @freeCodeCamp. Overall it was good and felt like I am getting more comfortable writing CSS. This was the first day of a 4 day lockdown in Turkey so I felt a little low. It affected me a little.
+
+Link to Work: https://codepen.io/afgonullu/pen/MWaJrzv
+
+### R1D5 - April 24, Friday
+
+Today's Progress: First day of Ramadan. Not a very productive day. Read some more from "Clean Code". Started to look into blazor web assembly.
+
+### R1D6 - April 25, Saturday
+
+Today's Progress: I submitted last project and claimed my certificate from @freeCodeCamp. FreeCodeCamp is really a great user experience. And for free! I will comeback to these projects and beautify them in time. For the moment, I am satisfied with the progress.
+
+Link to Work: https://codepen.io/afgonullu/pen/abvJMOe
