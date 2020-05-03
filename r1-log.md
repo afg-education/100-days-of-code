@@ -51,3 +51,13 @@ Today's Progress: First day of Ramadan. Not a very productive day. Read some mor
 Today's Progress: I submitted last project and claimed my certificate from @freeCodeCamp. FreeCodeCamp is really a great user experience. And for free! I will comeback to these projects and beautify them in time. For the moment, I am satisfied with the progress.
 
 Link to Work: https://codepen.io/afgonullu/pen/abvJMOe
+
+######### April 25, Saturday - Completed Responsive Web Design Certification
+
+### R1D7 - April 27, Saturday
+
+Today's Progress: Started JS Algorithms and Data Structures Certification.
+
+### R1D7 - April 27, Saturday -- R1D13 May 03, Sunday
+
+Today's Progress: Continued with the JS Algorithms and Data Structures Certification on @freeCodeCamp. Tomorrow I will claim the certificate.
