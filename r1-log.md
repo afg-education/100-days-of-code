@@ -61,3 +61,9 @@ Today's Progress: Started JS Algorithms and Data Structures Certification.
 ### R1D7 - April 27, Saturday -- R1D13 May 03, Sunday
 
 Today's Progress: Continued with the JS Algorithms and Data Structures Certification on @freeCodeCamp. Tomorrow I will claim the certificate.
+
+### R1D14 - May 04, Monday -- R1D16 May 06, Wednesday
+
+Today's Progress: Worked through FreeCodeCamp JS exercises. Halfway through the intermediate exercises, I decided to keep my solutions. Set up a github repo. Finished and pushed basic exercises on May 05th. Will finish intermediate exercises and push them today.
+
+Link to Work: https://github.com/afg-education/FCC-js
