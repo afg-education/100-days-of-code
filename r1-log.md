@@ -67,3 +67,9 @@ Today's Progress: Continued with the JS Algorithms and Data Structures Certifica
 Today's Progress: Worked through FreeCodeCamp JS exercises. Halfway through the intermediate exercises, I decided to keep my solutions. Set up a github repo. Finished and pushed basic exercises on May 05th. Will finish intermediate exercises and push them today.
 
 Link to Work: https://github.com/afg-education/FCC-js
+
+### R1D17 - May 07, Thursday -- R1D19 May 09, Saturday
+
+Today's Progress: I took longer than I anticipated. Some of the challenges took really long time to figure them out. Coming up with a bulletproof working algorithm and trying to code it in was very challenging and also very educating. I finished intermediate exercises on May 09th. Hopefully, I will complete projects tomorrow and claim the certificate.
+
+Link to Work: https://github.com/afg-education/FCC-js
