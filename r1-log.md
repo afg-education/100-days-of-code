@@ -52,7 +52,7 @@ Today's Progress: I submitted last project and claimed my certificate from @free
 
 Link to Work: https://codepen.io/afgonullu/pen/abvJMOe
 
-######### April 25, Saturday - Completed Responsive Web Design Certification
+### ###### April 25, Saturday - Completed Responsive Web Design Certification
 
 ### R1D7 - April 27, Saturday
 
@@ -73,3 +73,11 @@ Link to Work: https://github.com/afg-education/FCC-js
 Today's Progress: I took longer than I anticipated. Some of the challenges took really long time to figure them out. Coming up with a bulletproof working algorithm and trying to code it in was very challenging and also very educating. I finished intermediate exercises on May 09th. Hopefully, I will complete projects tomorrow and claim the certificate.
 
 Link to Work: https://github.com/afg-education/FCC-js
+
+### R1D20 - May 10, Sunday -- R1D21 May 11, Monday
+
+Today's Progress: Finally finished the JS Algorithms. It took 16 days. Joy, fulfillment and a feeling of accomplishment rush through my veins. :) I am proud of myself.
+
+Link to Work: https://github.com/afg-education/FCC-js
+
+### ###### May 11, Monday - Completed Javascript Algorithms and Data Structures Certification
