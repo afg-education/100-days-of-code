@@ -81,3 +81,7 @@ Today's Progress: Finally finished the JS Algorithms. It took 16 days. Joy, fulf
 Link to Work: https://github.com/afg-education/FCC-js
 
 ### ###### May 11, Monday - Completed Javascript Algorithms and Data Structures Certification
+
+### R1D22 - May 12, Tuesday -- R1D25 May 15, Friday
+
+Today's Progress: Started Front End Libraries Certification on @freeCodeCamp and worked through Bootstrap, Jquery, Sass and React sections. Read some more. Organized my files, bookmarks, trello boards. Tended to my garden. Baked breads, tried making pizza for the first time. Getting excited with the idea to stream on Twitch. 
