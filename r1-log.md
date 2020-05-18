@@ -85,3 +85,7 @@ Link to Work: https://github.com/afg-education/FCC-js
 ### R1D22 - May 12, Tuesday -- R1D25 May 15, Friday
 
 Today's Progress: Started Front End Libraries Certification on @freeCodeCamp and worked through Bootstrap, Jquery, Sass and React sections. Read some more. Organized my files, bookmarks, trello boards. Tended to my garden. Baked breads, tried making pizza for the first time. Getting excited with the idea to stream on Twitch. 
+
+### R1D25 - May 16, Saturday -- R1D25 May 18, Monday : 
+
+Today's Progress: I say, off days. Had to format my PC. Worked on my garden, spent time with my family. I did read, solved couple of codewars katas, watched some coding related streams nonetheless. From this point forward, I will commit to spending min. 1 hour to a project. First one will be the portfolio website.
