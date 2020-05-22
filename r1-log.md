@@ -89,3 +89,7 @@ Today's Progress: Started Front End Libraries Certification on @freeCodeCamp and
 ### R1D25 - May 16, Saturday -- R1D25 May 18, Monday : 
 
 Today's Progress: I say, off days. Had to format my PC. Worked on my garden, spent time with my family. I did read, solved couple of codewars katas, watched some coding related streams nonetheless. From this point forward, I will commit to spending min. 1 hour to a project. First one will be the portfolio website.
+
+### R1D26 - May 19, Tuesday -- R1D29 May 22, Friday :
+
+Today's Progress: I have completed React, Redux, React and Redux Sections on @freeCodeCamp. Started working on a twitch bot, connected to Twitch API. Started working on a Game Suggestion App from app-ideas list of @florinpop17. 
