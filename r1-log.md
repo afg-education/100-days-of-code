@@ -94,6 +94,12 @@ Today's Progress: I say, off days. Had to format my PC. Worked on my garden, spe
 
 Today's Progress: I have completed React, Redux, React and Redux Sections on @freeCodeCamp. Started working on a twitch bot, connected to Twitch API. Started working on a Game Suggestion App from app-ideas list of @florinpop17. 
 
-### R1D30 - May 23, Saturday -- R1D29 May 35, Thursday :
+### R1D30 - May 23, Saturday -- R1D35 May 28, Thursday :
 
 Today's Progress: Overall not very productive through these days. Ramadan, Celebration, then some COVID related daily stress prevented me to study and worked efficiently. Still I did follow along Brad's HTML course on Udemy, did some planning for my website, learned a little bit more about React.
+
+### R1D36 - May 29, Friday -- R1D37 May 30, Saturday :
+
+Today's Progress: I worked on first project on Front End Libraries module of FreeCodeCamp. I realize now, that I solved it pretty quickly using React, but missing one tiny '#' in a tag's href attribute caused the page loading on every button click; which made me believe that somehow React component is rendering again, etc. Spent many hours just to understand why component is re-rendering, refactored countlessly and some more crazy stuff. You can say that I learned quite a bit from the experience.
+
+Link To Work: https://codepen.io/afgonullu/pen/RwWdWxy
