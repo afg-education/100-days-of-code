@@ -100,6 +100,6 @@ Today's Progress: Overall not very productive through these days. Ramadan, Celeb
 
 ### R1D36 - May 29, Friday -- R1D37 May 30, Saturday :
 
-Today's Progress: I worked on first project on Front End Libraries module of FreeCodeCamp. I realize now, that I solved it pretty quickly using React, but missing one tiny '#' in a tag's href attribute caused the page loading on every button click; which made me believe that somehow React component is rendering again, etc. Spent many hours just to understand why component is re-rendering, refactored countlessly and some more crazy stuff. You can say that I learned quite a bit from the experience.
+Today's Progress: I worked on first project on Front End Libraries module of FreeCodeCamp. I realize now, that I solved it pretty quickly using React, but missing one tiny '#' in a tag's href attribute caused the page loading on every button click; which made me believe that somehow React component is rendering again, etc. Spent many hours just to understand why component is re-rendering, refactored countlessly and some more crazy stuff. After all the fuss, I felt so disconnected, I just left it without any CSS. You can say that I learned quite a bit from the experience. 
 
 Link To Work: https://codepen.io/afgonullu/pen/RwWdWxy
