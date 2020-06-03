@@ -109,3 +109,10 @@ Link To Work: https://codepen.io/afgonullu/pen/RwWdWxy
 Today's Progress: I worked on second project on Front End Libraries module of FreeCodeCamp. worked on a project proposal. researched and cataloged some resources, design elements. read about 27001.
 
 Link To Work: https://codepen.io/afgonullu/full/GRpVzWw
+
+### R1D41 - June 03, Wednesday :
+
+Today's Progress: I worked on third project on Front End Libraries module of FreeCodeCamp. Worked on my personal portfolio website.
+
+Link To Work: https://codepen.io/afgonullu/full/oNbNwby
+
