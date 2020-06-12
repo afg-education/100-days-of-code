@@ -116,3 +116,8 @@ Today's Progress: I worked on third project on Front End Libraries module of Fre
 
 Link To Work: https://codepen.io/afgonullu/full/oNbNwby
 
+### R1D50 - June 12, Friday :
+
+Today's Progress: I submitted fourth project on Front End Libraries module of FreeCodeCamp. Calculator is so fundamental in our lives, which gives the illusion that it would be easy, but it was not! Creating a solution for logic and many parametric behaviors was hard. Nevertheless, one more step toward the certificate.
+
+Link To Work: https://codepen.io/afgonullu/full/PoZZJXp
