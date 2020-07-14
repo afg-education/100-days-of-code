@@ -121,3 +121,7 @@ Link To Work: https://codepen.io/afgonullu/full/oNbNwby
 Today's Progress: I submitted fourth project on Front End Libraries module of FreeCodeCamp. Calculator is so fundamental in our lives, which gives the illusion that it would be easy, but it was not! Creating a solution for logic and many parametric behaviors was hard. Nevertheless, one more step toward the certificate.
 
 Link To Work: https://codepen.io/afgonullu/full/PoZZJXp
+
+### ###### Jun 16, Tuesday - Completed Front End Libraries Certification (Day 54)
+
+### ###### Jul 14, Tuesday - Completed Data Visualization Certification (Day 82)
