@@ -125,3 +125,9 @@ Link To Work: https://codepen.io/afgonullu/full/PoZZJXp
 ### ###### Jun 16, Tuesday - Completed Front End Libraries Certification (Day 54)
 
 ### ###### Jul 14, Tuesday - Completed Data Visualization Certification (Day 82)
+
+### R1D89 - July 21, Friday :
+
+Today's Progress: I did finish APIs and Microservices lessons on FreeCodeCamp last week and started building final projects. First project, Timestamp microservice is finished today.
+
+Link To Work: https://fcc-timestamp-afg.glitch.me/
