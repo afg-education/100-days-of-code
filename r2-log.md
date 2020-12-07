@@ -2,7 +2,6 @@
 The log of my #100DaysOfCode challenge. Started on [December 7, Monday, 2020].
 
 ## Log
-------
 
 ### R1D1 - December 7, Monday
   * Finished Full Stack Open Part 5 - c / Testing React Apps
